@@ -1,0 +1,22 @@
+{
+  "name": "week-5-workshop-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "axios": "^0.21.1",
+    "babel-jest": "^27.0.6"
+  },
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll",
+    "test:coverage": "jest --coverage"
+  },
+  "author": "",
+  "license": "ISC"
+}
